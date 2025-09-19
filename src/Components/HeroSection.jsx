@@ -45,6 +45,16 @@ const TextCard = () => {
             Get Started
           </button>
         </div>
+        <div className="pt-[68px]">
+          <img
+            className="h-10 w-xl"
+            src="src\assets\Screenshot 2025-09-19 130901.png"
+            alt=""
+          />
+          <p className="text-gray-500 ml-2 pt-1">
+            10.000+ have already joined the advisory{" "}
+          </p>
+        </div>
       </div>
     </>
   );
